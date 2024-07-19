@@ -1,0 +1,134 @@
+[
+  {
+    "name": "一年级上册",
+    "dict": "PEP_SL_XiaoXue1_1_t.json",
+    "word_count": 52,
+    "image": "XX_1_1.jpg"
+  },
+  {
+    "name": "一年级下册",
+    "dict": "PEP_SL_XiaoXue1_2_t.json",
+    "word_count": 96,
+    "image": "XX_1_2.jpg"
+  },
+  {
+    "name": "二年级上册",
+    "dict": "PEP_SL_XiaoXue2_1_t.json",
+    "word_count": 54,
+    "image": "XX_2_1.jpg"
+  },
+  {
+    "name": "二年级下册",
+    "dict": "PEP_SL_XiaoXue2_2_t.json",
+    "word_count": 55,
+    "image": "XX_2_2.jpg"
+  },
+  {
+    "name": "三年级上册",
+    "dict": "PEP_SL_XiaoXue3_1_t.json",
+    "word_count": 103,
+    "image": "XX_3_1.jpg"
+  },
+  {
+    "name": "三年级下册",
+    "dict": "PEP_SL_XiaoXue3_2_t.json",
+    "word_count": 84,
+    "image": "XX_3_2.jpg"
+  },
+  {
+    "name": "四年级上册",
+    "dict": "PEP_SL_XiaoXue4_1_t.json",
+    "word_count": 116,
+    "image": "XX_4_1.jpg"
+  },
+  {
+    "name": "四年级下册",
+    "dict": "PEP_SL_XiaoXue4_2_t.json",
+    "word_count": 87,
+    "image": "XX_4_2.jpg"
+  },
+  {
+    "name": "五年级上册",
+    "dict": "PEP_SL_XiaoXue5_1_t.json",
+    "word_count": 66,
+    "image": "XX_5_1.jpg"
+  },
+  {
+    "name": "五年级下册",
+    "dict": "PEP_SL_XiaoXue5_2_t.json",
+    "word_count": 96,
+    "image": "XX_5_2.jpg"
+  },
+  {
+    "name": "六年级上册",
+    "dict": "PEP_SL_XiaoXue6_1_t.json",
+    "word_count": 102,
+    "image": "XX_6_1.jpg"
+  },
+  {
+    "name": "六年级下册",
+    "dict": "PEP_SL_XiaoXue6_2_t.json",
+    "word_count": 41,
+    "image": "XX_6_2.jpg"
+  },
+  {
+    "name": "初一上册",
+    "dict": "PEPChuZhong7_1_T.json",
+    "word_count": 392,
+    "image": "CZ_1_1.jpg"
+  },
+  {
+    "name": "初一下册",
+    "dict": "PEPChuZhong7_2_T.json",
+    "word_count": 492,
+    "image": "CZ_1_2.jpg"
+  },
+  {
+    "name": "初二上册",
+    "dict": "PEPChuZhong8_1_T.json",
+    "word_count": 419,
+    "image": "CZ_2_1.jpg"
+  },
+  {
+    "name": "初二下册",
+    "dict": "PEPChuZhong8_2_T.json",
+    "word_count": 466,
+    "image": "CZ_2_2.jpg"
+  },
+  {
+    "name": "初三",
+    "dict": "PEPChuZhong9_1_T.json",
+    "word_count": 551,
+    "image": "CZ_3_1.jpg"
+  },
+  {
+    "name": "高中必修1",
+    "dict": "PEPGaoZhong_1_T.json",
+    "word_count": 311,
+    "image": null
+  },
+  {
+    "name": "高中必修2",
+    "dict": "PEPGaoZhong_2_T.json",
+    "word_count": 319,
+    "image": null
+  },
+  {
+    "name": "高中必修3",
+    "dict": "PEPGaoZhong_3_T.json",
+    "word_count": 366,
+    "image": null
+  },
+  {
+    "name": "中考常见词 2100",
+    "dict": "ZhongKaoHeXin.json",
+    "word_count": 2140,
+    "image": null
+  },
+  {
+    "name": "高考常见词 3800",
+    "dict": "GaoKao_3500.json",
+    "word_count": 3893,
+    "image": null
+  }
+]
